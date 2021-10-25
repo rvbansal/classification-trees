@@ -1,0 +1,5 @@
+#!/bin/bash
+
+python -m pytest test_classification_tree.py
+python -m pytest test_classification_tree_sql.py
+python -m pytest test_classification_forest.py
