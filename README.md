@@ -1,0 +1,1 @@
+An implementation of classification trees and random forests from scratch along with tools for cross-validation and minimum cost complexity pruning. Supports data stored locally in numpy arrays as well as externally in a SQL database.
